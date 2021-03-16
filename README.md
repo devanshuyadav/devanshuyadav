@@ -4,7 +4,7 @@ I'm Devanshu, CSE Core first year. I am a graphics & logo designer and a competi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Vellore Institute of technology, Bhopal.
-- 🌱 I’m currently learning Website development.
+- 🌱 I’m currently learning Web development.
 - 💬 Ask me about Competitive Coding and Graphic designing.
 - ⚡ Fun fact: I'm a Chess player.
 
